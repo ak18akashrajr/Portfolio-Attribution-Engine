@@ -1,7 +1,3 @@
-Alright Akash — let’s ship this like a **production-ready GitHub README**.
-Clean, precise, technically dense, and **interview-safe**. This is exactly what a reviewer expects when they open your repo.
-
-Below is a **copy-paste ready `README.md`**.
 
 ---
 
